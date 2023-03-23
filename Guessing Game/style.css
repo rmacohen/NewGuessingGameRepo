@@ -1,0 +1,13 @@
+body {
+    background-color:antiquewhite
+}
+section {
+    background-color: aliceblue;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 50px;
+    padding: 20px;
+    align-items: center;
+    border-style: solid;
+}
